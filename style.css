@@ -3,7 +3,6 @@ section{
 }
 
 
-/*---------Utilities---------*/
 .without_bottom_margin {
     margin-bottom: 0;
 }
@@ -20,9 +19,6 @@ li {
     margin-bottom: 15px;
 }
 
-
-
-/*---------TEXTOS---------*/
 h1 {
     margin: 0;
     color: red;
@@ -47,7 +43,6 @@ font-weight: bold;
     margin-top: 15px;
 }
 
-/*---------CAJAS---------*/
 .caja1 {
     float: left;
 }
