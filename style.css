@@ -1,0 +1,68 @@
+section{
+    clear: both;
+}
+
+
+/*---------Utilities---------*/
+.without_bottom_margin {
+    margin-bottom: 0;
+}
+
+.without_margin {
+    margin: 0;
+}
+
+.with_margin {
+    margin-bottom: 15px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+
+
+/*---------TEXTOS---------*/
+h1 {
+    margin: 0;
+    color: red;
+    padding-top: 25px;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    margin: 0;
+    font-style: italic;
+}
+
+.with_bold {
+font-weight: bold;
+}
+
+.p_margin {
+    font-style: normal;
+    margin-top: 15px;
+}
+
+/*---------CAJAS---------*/
+.caja1 {
+    float: left;
+}
+
+.caja2 {
+    background-color: black;
+    height: 130px;
+    width: 100%;
+}
+
+
+.divider{
+    clear: both;
+    background-color: green;
+    height: 4px;
+    width: 100%;
+    margin-bottom: 15px;
+}
